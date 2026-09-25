@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sumit kumar jha 
-- 👀 I’m interested in web designing 
-- 🌱 I’m currently learning Web developement
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Science
 - 📫 You can contact me on my gmail sumitkr.9971@gmail.com
 - ⚡ Fun fact: ...
 
